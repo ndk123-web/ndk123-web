@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;Full-Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-# Hi there, I'm @ndk123-web 👋
+# Hi there, I'm Navnath 👋
 
 ## About Me
 I'm a passionate Full-Stack Developer focused on creating efficient, user-friendly web applications. My experience spans across various front-end and back-end technologies, with a strong foundation in multiple programming languages.
