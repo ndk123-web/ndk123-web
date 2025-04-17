@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @ndk123-web
+# 👋 Hi, I'm Navnath 
 
 ## 💻 Full Stack Developer
 
