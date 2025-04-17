@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;Software+Developer;Tech+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
-# Hi there, I'm @ndk123-web 👋
+# Hi there, I'm Navnath 👋
 
 ## About Me
 I'm a passionate software developer on a journey to master multiple domains of software development. From web applications to desktop tools, ML integrations to DevOps practices, I enjoy exploring new technologies and building efficient, scalable solutions.
