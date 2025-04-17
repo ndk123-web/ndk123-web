@@ -1,81 +1,171 @@
-# 👋 Hi, I'm Navnath 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;Full-Stack+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</div>
 
-## 💻 Full Stack Developer
+# Hi there, I'm @ndk123-web 👋
 
-Passionate about building web applications with a focus on both frontend and backend technologies. Always exploring new technologies and continuously improving my skills.
+## About Me
+I'm a passionate Full-Stack Developer focused on creating efficient, user-friendly web applications. My experience spans across various front-end and back-end technologies, with a strong foundation in multiple programming languages.
 
-## 🛠️ Tech Stack
+<p align="center">
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndk123-web&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" /></a>
+</p>
 
-### Languages
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+## 💻 Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 ### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+</div>
+</td>
+
+<td valign="top" width="33%">
 
 ### Backend
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<div align="center">  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+</div>
+</td>
 
-### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<td valign="top" width="33%">
 
-### Hosting & Deployment
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### Languages & Tools
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+</div>
+</td>
+</tr>
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<tr>
+<td valign="top" width="33%">
 
-## 🚀 Projects
+### Databases
+<div align="center">  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firestore" height="50" /></a>  
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Deployment
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel" height="50" /></a>  
+<a href="https://render.com/" target="_blank"><img style="margin: 10px" src="https://render.com/favicon.svg" alt="Render" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+</div>
+</td>
+
+<td valign="top" width="33%">
+
+### Currently Learning
+<div align="center">  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+</div>
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndk123-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndk123-web&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+## 🚀 Featured Projects
+
+### Full-Stack Applications
+- **ChatOrbit** - Real-time chat application
+  - `React` `Express` `MongoDB` `Socket.io`
+  - *Currently in development*
+
+- **PasswordManager** - Secure credential management system
+  - `React` `Firebase Auth` `Firestore` `Tailwind CSS`
 
 ### Web Applications
-- **ChatOrbit** - A 1-1 chat application built with React+Vite, Express, MongoDB, and Socket.io *(Currently in development)*
-- **PasswordManager** - Secure credential storage with Firebase Auth (Google, GitHub), Firestore, Tailwind, and React+Vite
-- **React Gemini Clone** - Implementation of the Gemini AI API with React
-- **React TODO App** - Task management application using React and Tailwind CSS
+- **StudyChat** - Educational platform
+  - `Django` `HTML` `CSS` `JavaScript`
 
-### APIs & Backend Projects
-- **YtMp3 Downloader** - Flask-based YouTube to MP3 converter with vanilla JS frontend
-- **StudyChat** - Educational platform built with Django, HTML, CSS, and JavaScript
-- **TechTales** - Blog application created with Flask, HTML, CSS, and vanilla JavaScript
-- **StockInsight** - Stock prediction tool using Flask and front-end technologies
+- **TechTales** - Blog application
+  - `Flask` `HTML` `CSS` `JavaScript`
 
-### Utility Applications
-- **File Organizer** - Node.js application utilizing fs and path modules
-- **Duplicate File Remover** - File management utility with Node.js, fs, path, and Crypto-JS
+- **StockInsight** - Stock prediction tool
+  - `Flask` `Data Analysis` `HTML` `CSS` `JavaScript`
+
+### Tools & Utilities
+- **YtMp3 Downloader** - Media conversion tool
+  - `Flask` `JavaScript` `API Integration`
+
+- **File Organizer** - File management utility
+  - `Node.js` `fs` `path`
+
+- **Duplicate File Remover** - File deduplication tool
+  - `Node.js` `CryptoJS` `fs` `path`
 
 ### Game Development
-- **Unity Ball Runner Game** - 3D game developed using Unity
+- **Unity Ball Runner** - 3D platformer game
+  - `Unity` `C#` `Game Design`
 
-## 📊 GitHub Stats
+## 📌 Highlighted Repositories
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ndk123-web&show_icons=true&theme=radical)
+<div align="center">
+<a href="https://github.com/ndk123-web/ChatOrbit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndk123-web&repo=ChatOrbit&theme=tokyonight" />
+</a>
+<a href="https://github.com/ndk123-web/PasswordManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ndk123-web&repo=PasswordManager&theme=tokyonight" />
+</a>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndk123-web&layout=compact&theme=radical)
+## 🔭 Future Goals
 
-## 🌱 Currently Learning
-- Advanced React patterns
-- Server-side rendering
-- WebSocket implementation
-- Database optimization
+- Strengthening full-stack development skills
+- Mastering advanced React patterns and state management
+- Building scalable backend infrastructure
+- Contributing to open-source projects
+- Exploring cloud-native technologies
 
-## 📫 How to Reach Me
-- [GitHub](https://github.com/ndk123-web)
-<!-- Add your other contact info like LinkedIn, email, etc. below -->
+## 📫 Connect With Me
 
-<!-- 
-Feel free to connect or check out my projects! I'm always open to interesting collaborations and learning opportunities.
+<div align="center">
+<a href="https://github.com/ndk123-web" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/[Your LinkedIn]" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<!-- Add or remove social links as needed -->
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ndk123-web&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
+
+<!--
+**ndk123-web/ndk123-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
