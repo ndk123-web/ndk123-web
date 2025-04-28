@@ -117,7 +117,7 @@ I'm a passionate software developer on a journey to master multiple domains of s
 ### Web Development
 - **ChatOrbit** - Real-time 1-1 chat application
   - `React` `Express` `MongoDB` `Socket.io`
-  - *Currently in development*
+  - *Completed *
 
 - **PasswordManager** - Secure credential management system
   - `React` `Firebase Auth` `Firestore` `Tailwind CSS`
