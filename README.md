@@ -14,9 +14,11 @@ I'm a passionate software developer on a journey to master multiple domains of s
 ## 🚀 Portfolio Projects
 
 ### Web Development
-- **AI Resume Maker** - (currently in progress)  
+- **AI Resume Maker** - Secure ATS compatible resume Pdf on user prompt
+  -   `React` `Express` `MongoDB` `FastAPI` `GeminiAPI` `Firebase Auth` `Tailwind CSS` `Cloduinary`
+    
 - **ChatOrbit** - Real-time 1-1 chat application  
-  - `React` `Express` `MongoDB` `Socket.io`
+  - `React` `Express` `MongoDB` `Socket.io` `Firebase Auth` `Tailwind CSS`
 
 - **PasswordManager** - Secure credential management system  
   - `React` `Firebase Auth` `Firestore` `Tailwind CSS`
