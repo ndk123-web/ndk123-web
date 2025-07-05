@@ -124,17 +124,17 @@ I'm a passionate software developer on a journey to master multiple domains of s
 
 Following a strategic learning path focused on depth rather than breadth:
 
-### Phase 1: Advanced Frontend & Full Stack Mastery (Current)
+### Phase 1: Advanced Frontend & Full Stack Mastery (Done)
 - Mastering advanced React patterns and state management
 - Exploring Next.js and server-side rendering
 - Building production-quality applications
 
-### Phase 2: Backend & ML Integration (Next Steps)
+### Phase 2: Backend & ML Integration (Next Steps) (Done)
 - Developing advanced REST APIs with FastAPI/Flask
 - Integrating machine learning models into web applications
 - Creating data visualization dashboards
 
-### Phase 3: System Design & DevOps (Future)
+### Phase 3: System Design & DevOps (current)
 - Implementing microservices architecture
 - Setting up containerization with Docker
 - Establishing CI/CD pipelines
