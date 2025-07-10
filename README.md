@@ -36,13 +36,18 @@ I'm a passionate software developer on a journey to master multiple domains of s
 - **YtMp3 Downloader** - Media conversion tool  
   - `Flask` `JavaScript` `API Integration`
 
+### NPM Package 
+- **dev-preview** - preview html files locally
+  - `Express.js` `NodeJs` `fs` `path`
+
+
 ### Utility Applications
 - **File Organizer** - File management utility  
   - `Node.js` `fs` `path`
 
 - **Duplicate File Remover** - File deduplication tool  
   - `Node.js` `CryptoJS` `fs` `path`
-
+ 
 ### Game Development
 - **Unity Ball Runner** - 3D platformer game  
   - `Unity` `C#` `Game Design`
