@@ -7,9 +7,70 @@
 ## About Me
 I'm a passionate software developer on a journey to master multiple domains of software development. From web applications to desktop tools, ML integrations to DevOps practices, I enjoy exploring new technologies and building efficient, scalable solutions.
 
-<p align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ndk123-web&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" /></a>
-</p>
+<div align="center">
+
+## 📊 GitHub Statistics & Analytics
+
+<!-- Main Stats Row -->
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ndk123-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd" height="195" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndk123-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&langs_count=8" height="195" />
+
+</td>
+</tr>
+</table>
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ndk123-web&theme=tokyonight&hide_border=true&background=1a1b27&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=70a5fd&dates=ffffff&sideNums=70a5fd&fire=ff9500&ring=70a5fd)
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ndk123-web&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
+
+<!-- Trophies -->
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=ndk123-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+
+<!-- Profile Summary Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndk123-web&theme=tokyonight" width="100%" />
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndk123-web&theme=tokyonight" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndk123-web&theme=tokyonight&utcOffset=8" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndk123-web&theme=tokyonight" width="100%" />
+
+</td>
+<td width="50%">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndk123-web&theme=tokyonight" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=ndk123-web&color=70a5fd&style=for-the-badge&label=Profile+Views" />
+
+</div>
 
 ## 🚀 Portfolio Projects
 
@@ -39,7 +100,6 @@ I'm a passionate software developer on a journey to master multiple domains of s
 ### NPM Package 
 - **dev-preview** - preview html files locally
   - `Express.js` `NodeJs` `fs` `path`
-
 
 ### Utility Applications
 - **File Organizer** - File management utility  
@@ -81,8 +141,8 @@ I'm a passionate software developer on a journey to master multiple domains of s
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 </div>
 
 ### Database
@@ -92,7 +152,6 @@ I'm a passionate software developer on a journey to master multiple domains of s
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  
 </div>
 
 ### Tools and Deployment
@@ -101,12 +160,12 @@ I'm a passionate software developer on a journey to master multiple domains of s
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </div>
 
 ### Currently Learning
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
@@ -117,13 +176,9 @@ I'm a passionate software developer on a journey to master multiple domains of s
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ndk123-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndk123-web&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+</td>
+</tr>
+</table>
 
 ## 🗺️ Development Roadmap
 
@@ -159,10 +214,6 @@ Following a strategic learning path focused on depth rather than breadth:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <!-- Add or remove social links as needed -->
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ndk123-web&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
