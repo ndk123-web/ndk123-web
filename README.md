@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;Software+Developer;Tech+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Profile;Aspiring+Software+Engineer;Tech+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 # Hi there, I'm Navnath 👋
