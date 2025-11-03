@@ -76,7 +76,8 @@ I'm a passionate software developer on a journey to master multiple domains of s
 
 ### Web Development
 
-- **Study sync** ( ongoing ) - Study Efficiently and drop specific pdf / yt link and get support to chat , summary , transcript , quizzes 
+- **Study sync** - Study Efficiently and drop specific pdf / yt link and get support to chat , summary , transcript , quizzes
+  -   `React JS` `Express` `MongoDB` `FastAPI` `GeminiAPI` `Firebase Auth` `Tailwind CSS` `Cloduinary` `Web Socket` `Kafka` `TensorFlow`
 
 - **AI Resume Maker** - Secure ATS compatible resume Pdf on user prompt
   -   `React` `Express` `MongoDB` `FastAPI` `GeminiAPI` `Firebase Auth` `Tailwind CSS` `Cloduinary`
