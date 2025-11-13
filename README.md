@@ -108,7 +108,7 @@ I'm a passionate software developer on a journey to master multiple domains of s
 - **NDK RPC Engine** - A lightweight, fast, and easy-to-use RPC (Remote Procedure Call) engine for Node.js with built-in client and server support
   - `Express.js` `NodeJs` `fs` `path` `RateLimit`
     
-- **NDK RPC Cluster** - preview html files locally
+- **NDK RPC Cluster** - Enterprise-grade RPC cluster system with load balancing, fault tolerance, service discovery and automatic failover support
   - `Server Replicas` `Load Balancer` `fs` `path` , `Express.Js` , `Fault Tolerance` , `Easy Setup`
 
 ### Utility Applications
