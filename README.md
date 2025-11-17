@@ -5,7 +5,7 @@
 # Hi there, I'm Navnath 👋
 
 ## About Me
-I'm a passionate software developer on a journey to master multiple domains of software development. From web applications to desktop tools, ML integrations to DevOps practices, I enjoy exploring new technologies and building efficient, scalable solutions.
+I'm a passionate software developer on a journey to get knowledge in multiple domains of software development. From web applications to desktop tools, ML integrations to DevOps practices, I enjoy exploring new technologies and building efficient, scalable solutions.
 
 <div align="center">
 
