@@ -12,20 +12,6 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
 ## 📊 GitHub Statistics & Analytics
 
 <!-- Main Stats Row -->
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ndk123-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd" height="195" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndk123-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&langs_count=8" height="195" />
-
-</td>
-</tr>
-</table>
 
 <!-- Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ndk123-web&theme=tokyonight&hide_border=true&background=1a1b27&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=70a5fd&dates=ffffff&sideNums=70a5fd&fire=ff9500&ring=70a5fd)
@@ -34,9 +20,6 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndk123-web&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
 
 <!-- Trophies -->
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=ndk123-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
-
 <!-- Profile Summary Cards -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndk123-web&theme=tokyonight" width="100%" />
 
@@ -78,6 +61,9 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
 
 - **Study sync** - Study Efficiently and drop specific pdf / yt link and get support to chat , summary , transcript , quizzes
   -   `React JS` `Express` `MongoDB` `FastAPI` `GeminiAPI` `Firebase Auth` `Tailwind CSS` `Cloduinary` `Web Socket` `Kafka` `TensorFlow`
+ 
+- **TaskPlexus** - A full-stack task and goal management system with AI-powered planning, real-time synchronization, and professional payment processing. Built with Go backend and React frontend.
+  -   `React JS` `Go Lang` `MongoDB` `Postgres` `GeminiAPI` `Firebase Auth` `Razorpay Payements` `Redis` `IndexedDB` `Brevo` `Webhooks`
 
 - **AI Resume Maker** - Secure ATS compatible resume Pdf on user prompt
   -   `React` `Express` `MongoDB` `FastAPI` `GeminiAPI` `Firebase Auth` `Tailwind CSS` `Cloduinary`
@@ -112,6 +98,10 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
   - `Server Replicas` `Load Balancer` `fs` `path` , `Express.Js` , `Fault Tolerance` , `Easy Setup`
 
 ### Utility Applications
+
+- **Github Activity** - A lightweight, cross-platform CLI tool to inspect recent GitHub user activity using GitHub’s public Events API.
+  - `Go Lang` `scopes` `commands` `data` `limits` `cross platform`
+
 - **File Organizer** - File management utility  
   - `Node.js` `fs` `path`
 
