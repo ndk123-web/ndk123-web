@@ -28,7 +28,7 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
 </table>
 
 <!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=ndk123-web&theme=tokyonight&hide_border=true&background=1a1b27&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=70a5fd&dates=ffffff&sideNums=70a5fd&fire=ff9500&ring=70a5fd)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ndk123-web&theme=tokyonight&hide_border=true&background=1a1b27&currStreakLabel=70a5fd&sideLabels=ffffff&currStreakNum=70a5fd&dates=ffffff&sideNums=70a5fd&fire=ff9500&ring=70a5fd)
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndk123-web&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
@@ -38,30 +38,30 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
 <img src="https://github-profile-trophy.vercel.app/?username=ndk123-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
 
 <!-- Profile Summary Cards -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndk123-web&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndk123-web&theme=tokyonight" width="100%" />
 
 <table>
 <tr>
 <td width="50%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndk123-web&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndk123-web&theme=tokyonight" width="100%" />
 
 </td>
 <td width="50%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndk123-web&theme=tokyonight&utcOffset=8" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndk123-web&theme=tokyonight&utcOffset=8" width="100%" />
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndk123-web&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndk123-web&theme=tokyonight" width="100%" />
 
 </td>
 <td width="50%">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndk123-web&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndk123-web&theme=tokyonight" width="100%" />
 
 </td>
 </tr>
@@ -72,7 +72,38 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
 
 </div>
 
-## 🚀 Portfolio Projects
+## ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 TaskPlexus
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ndk123-web&repo=taskplexus&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd)](https://github.com/ndk123-web/taskplexus)
+
+A blazing-fast todo application built with Go backend and React frontend. This project is my journey into learning Go for backend development while building a simple yet performant full-stack application.
+
+**Tech Stack:** 
+- 🔹 Go
+- ⚛️ React
+- 📘 TypeScript
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 GitHub Activity CLI
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ndk123-web&repo=github-activity&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=ffffff&icon_color=70a5fd)](https://github.com/ndk123-web/github-activity)
+
+A lightweight, cross-platform CLI tool to inspect recent GitHub user activity using GitHub's public Events API.
+
+**Tech Stack:** 
+- 🔹 Go
+
+</td>
+</tr>
+</table>
+
+## 💼 Other Projects & Portfolio
 
 ### Web Development
 
