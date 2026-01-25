@@ -19,6 +19,8 @@ I'm a passionate software developer on a journey to get knowledge in multiple do
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndk123-web&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" height="300" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=ndk123-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" height="200" />
+
 <!-- Trophies -->
 <!-- Profile Summary Cards -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndk123-web&theme=tokyonight" width="100%" />
