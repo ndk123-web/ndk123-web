@@ -5,7 +5,11 @@
 # Hi there, I'm Navnath 👋
 
 ## About Me
-I'm a passionate software developer on a journey to get knowledge in multiple domains of software development. From web applications to desktop tools, ML integrations to DevOps practices, I enjoy exploring new technologies and building efficient, scalable solutions.
+I’m a third-year Computer Engineering student who enjoys building real-world software systems.
+I work across full-stack development, backend systems, and AI integrations, with a strong focus on clean architecture, scalability, and practical problem-solving.
+
+I like working on projects that involve system design, real-time communication, and end-to-end ownership — from frontend to backend to deployment.
+Currently sharpening my fundamentals in DSA, distributed systems, and DevOps while continuing to build and ship usable products.
 
 <div align="center">
 
