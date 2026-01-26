@@ -76,7 +76,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ### 🌟 Full-Stack Web Applications
 
-#### **[Study Sync](https://github.com/ndk123-web/study-sync)** 
+#### **[Study Sync](https://github.com/ndk123-web/study-sync-ai)** 
 > AI-powered study platform with PDF/YouTube link support, chat, summaries, transcripts, and quizzes
 
 **Tech Stack:** `React.js` `Express` `MongoDB` `FastAPI` `Gemini API` `Firebase Auth` `Tailwind CSS` `Cloudinary` `WebSocket` `Kafka` `TensorFlow`
