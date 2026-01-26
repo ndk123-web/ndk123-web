@@ -13,12 +13,13 @@ I'm a **third-year Computer Engineering student** passionate about building real
 - 🔧 Design scalable backend systems with real-time communication
 - 🤖 Integrate AI/ML capabilities into web applications
 - 📦 Create open-source tools and NPM packages
-- 🎯 Focus on system design, distributed systems, and DevOps practices
+- 🎯 Focus on system design, distributed systems, and best practices
 
 ### Currently:
-- 📚 Sharpening fundamentals in **DSA** and **Distributed Systems**
-- 🚀 Exploring **Microservices Architecture**, **Docker**, and **CI/CD**
-- 💡 Building production-grade applications with focus on performance and scalability
+- 📚 Sharpening fundamentals in **DSA** and **Algorithms**
+- 🤖 Deep diving into **Machine Learning** and **AI Model Integration**
+- 💡 Building AI-powered applications with focus on practical implementations
+- 🧠 Exploring **Deep Learning**, **NLP**, and **Computer Vision**
 
 ---
 
@@ -316,13 +317,16 @@ I'm a **third-year Computer Engineering student** passionate about building real
 <div align="center">
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Deployment
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -354,38 +358,42 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ### 🔥 Currently Focused On
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=deeplearning&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
 </div>
 
 **Key Focus Areas:**
-- 🏗️ Microservices Architecture
-- 🐳 Containerization with Docker
-- ☸️ Orchestration with Kubernetes
-- ☁️ AWS Cloud Services
-- 🔄 CI/CD Pipeline Design
-- 📊 System Design & Scalability
+- 🤖 **Machine Learning Algorithms** - Supervised, Unsupervised, Reinforcement Learning
+- 🧠 **Deep Learning** - Neural Networks, CNNs, RNNs, Transformers
+- 💬 **Natural Language Processing** - Text processing, Sentiment Analysis, LLMs
+- 👁️ **Computer Vision** - Image Classification, Object Detection
+- 📊 **Data Science** - Data Analysis, Visualization, Feature Engineering
+- 🔬 **ML Model Deployment** - Integrating ML models in production apps
 
 </td>
 <td valign="top" width="50%">
 
 ### 🎯 Future Learning Goals
 <div align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </div>
 
 **Planned Topics:**
-- 📱 Mobile Development with Flutter
-- 🔗 GraphQL & gRPC APIs
-- 🦀 Systems Programming with Rust
-- 🧠 Advanced ML/AI Integration
-- 🔐 Blockchain & Web3
+- ☁️ **Cloud Platforms** - AWS, Azure, Google Cloud
+- 🐳 **Containerization** - Docker, Container Orchestration
+- ☸️ **Kubernetes** - Pod Management, Scaling, Deployment
+- 🔄 **CI/CD Pipelines** - GitHub Actions, Jenkins, GitLab CI
+- 🏗️ **Microservices** - Service Mesh, API Gateway
+- 📊 **Monitoring & Logging** - Prometheus, Grafana, ELK Stack
 
 </td>
 </tr>
@@ -402,31 +410,41 @@ Following a strategic learning path focused on **depth over breadth**:
 
 - ✔️ Mastered advanced React patterns and state management
 - ✔️ Explored Next.js and server-side rendering
-- ✔️ Built production-quality applications
+- ✔️ Built production-quality full-stack applications
 
 ### ✅ Phase 2: Backend & AI Integration
 **Status:** Completed
 
-- ✔️ Developed advanced REST APIs with FastAPI/Flask/Express
+- ✔️ Developed advanced REST APIs with FastAPI/Flask/Express/Go
 - ✔️ Integrated AI models (Gemini API) into web applications
-- ✔️ Created data visualization and analytics features
+- ✔️ Built real-time systems with WebSocket and Kafka
 
-### 🔄 Phase 3: System Design & DevOps
-**Status:** In Progress
+### 🔄 Phase 3: Machine Learning & AI
+**Status:** In Progress (Current Focus)
 
-- 🚧 Implementing microservices architecture
-- 🚧 Setting up containerization with Docker
-- 🚧 Establishing CI/CD pipelines
-- 🚧 Learning Kubernetes orchestration
-- 🚧 Exploring AWS cloud services
+- 🚧 Learning ML algorithms and model training
+- 🚧 Implementing Deep Learning with TensorFlow/PyTorch
+- 🚧 Building NLP and Computer Vision projects
+- 🚧 Deploying ML models in production environments
+- 🚧 Exploring LLMs and advanced AI techniques
 
-### 📅 Phase 4: Computer Science Fundamentals
+### 📅 Phase 4: Cloud & DevOps
+**Status:** Planned for Future
+
+- 📖 Containerization with Docker
+- 📖 Kubernetes orchestration
+- 📖 AWS/Azure cloud services
+- 📖 CI/CD pipeline implementation
+- 📖 Microservices architecture
+- 📖 Infrastructure as Code (IaC)
+
+### 🔄 Phase 5: Computer Science Fundamentals
 **Status:** Ongoing
 
 - 📖 Building core components from scratch ("Build Your Own X")
 - 📖 Implementing algorithms and data structures
-- 📖 Exploring lower-level system design
-- 📖 Distributed systems concepts
+- 📖 Exploring distributed systems
+- 📖 System design and scalability patterns
 
 ---
 
@@ -462,9 +480,10 @@ I believe in:
 ```typescript
 const navnath = {
   code: ["JavaScript", "TypeScript", "Python", "Go", "Java", "C++"],
-  focus: ["System Design", "Backend Architecture", "DevOps"],
-  currentlyLearning: ["Docker", "Kubernetes", "AWS", "Microservices"],
-  askMeAbout: ["Web Dev", "Backend Systems", "AI Integration", "RPC Systems"],
+  focus: ["Machine Learning", "Deep Learning", "AI Integration"],
+  currentlyLearning: ["TensorFlow", "PyTorch", "NLP", "Computer Vision"],
+  futureGoals: ["Docker", "Kubernetes", "AWS", "DevOps"],
+  askMeAbout: ["Web Dev", "Backend Systems", "AI/ML", "RPC Systems"],
   funFact: "I believe code is poetry in logic form"
 };
 ```
