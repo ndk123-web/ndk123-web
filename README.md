@@ -23,18 +23,6 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
-## 🧩 Chrome Extension
-
-### **[ArthaPage](https://github.com/ndk123-web/arthpage)**
-> ArthaPage is a local-first AI browser extension that understands webpages, generates structured summaries, and enables interactive Q&A using both offline and online AI models. All chat history is stored in the user’s browser with no external database.
-
-**Highlights:**
-- 🔒 Local-first: chat history stored in the browser (no external DB)
-- 🧠 Webpage understanding with structured summaries + interactive Q&A
-- ⚡ Works with offline and online AI models
-
----
-
 <div align="center">
 
 ## 📊 GitHub Statistics & Analytics
@@ -86,7 +74,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ## 🚀 Featured Projects
 
-### 🌟 Full-Stack Web Applications
+### 1. 🌟 Full-Stack Web Applications
 
 #### **[Study Sync](https://github.com/ndk123-web/study-sync-ai)** 
 > AI-powered study platform with PDF/YouTube link support, chat, summaries, transcripts, and quizzes
@@ -140,7 +128,19 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
-### 🔧 Backend & System Design Projects
+### 2. 🧩 Chrome Extension
+
+#### **[ArthaPage](https://github.com/ndk123-web/arthpage)**
+> ArthaPage is a local-first AI browser extension that understands webpages, generates structured summaries, and enables interactive Q&A using both offline and online AI models. All chat history is stored in the user’s browser with no external database.
+
+**Highlights:**
+- 🔒 Local-first: chat history stored in the browser (no external DB)
+- 🧠 Webpage understanding with structured summaries + interactive Q&A
+- ⚡ Works with offline and online AI models
+
+---
+
+### 3. 🔧 Backend & System Design Projects
 
 #### **[NDK RPC Cluster](https://www.npmjs.com/package/ndk-rpc-cluster)**
 > Enterprise-grade RPC cluster with load balancing, fault tolerance, and service discovery
@@ -167,7 +167,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
-### 🛠️ Developer Tools & Utilities
+### 4. 🛠️ Developer Tools & Utilities
 
 #### **[GitHub Activity CLI](https://github.com/ndk123-web/github-activity)**
 > Cross-platform CLI tool to inspect recent GitHub user activity
@@ -208,7 +208,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
-### 🌐 Other Web Applications
+### 5. 🌐 Other Web Applications
 
 #### **[Password Manager](https://github.com/ndk123-web/password-manager)**
 > Secure credential management system with encryption
@@ -231,7 +231,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
-### 📊 Data Science & Analytics
+### 6. 📊 Data Science & Analytics
 
 #### **[StockInsight](https://github.com/ndk123-web/stockinsight)**
 > Stock price prediction and analysis tool
@@ -247,7 +247,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
-### 🎮 Game Development
+### 7. 🎮 Game Development
 
 #### **[Unity Ball Runner](https://github.com/ndk123-web/unity-ball-runner)**
 > 3D platformer game built with Unity
