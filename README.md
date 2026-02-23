@@ -23,6 +23,18 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
+## 🧩 Chrome Extension
+
+### **[ArthaPage](https://github.com/ndk123-web/arthpage)**
+> ArthaPage is a local-first AI browser extension that understands webpages, generates structured summaries, and enables interactive Q&A using both offline and online AI models. All chat history is stored in the user’s browser with no external database.
+
+**Highlights:**
+- 🔒 Local-first: chat history stored in the browser (no external DB)
+- 🧠 Webpage understanding with structured summaries + interactive Q&A
+- ⚡ Works with offline and online AI models
+
+---
+
 <div align="center">
 
 ## 📊 GitHub Statistics & Analytics
