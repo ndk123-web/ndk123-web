@@ -33,7 +33,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndk123-web&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ndk123-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=ndk123-web&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%" height="200" />
 
 <!-- Profile Summary Cards -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndk123-web&theme=tokyonight" width="100%" />
