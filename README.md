@@ -255,6 +255,83 @@ I'm a **third-year Computer Engineering student** passionate about building real
 **Tech Stack:** `Unity` `C#` `Game Design`
 
 ---
+### 8. 🤖 AI / ML Projects
+
+#### **[CreatorIQ](https://github.com/ndk123-web/CreatorIQ)**
+> High-performance, modular backend for YouTube creators with AI/ML (PyTorch, Transformers) + time-series analytics + low-latency async processing
+
+**Tech Stack:** `Python` `TypeScript` `PyTorch` `Transformers` `TimescaleDB` `Async Processing`
+
+**Key Features:**
+- 📈 Real-time trending insights & performance tracking
+- 🧠 AI-assisted content strategy generation
+- ⚡ Low-latency asynchronous pipeline design
+- 🗃️ Time-series analytics using TimescaleDB
+
+---
+
+#### **[Student Attention Monitoring](https://github.com/ndk123-web/student-attention-monitoring)**
+> AI-powered attention monitoring system using facial landmarks, eye tracking, and head pose estimation
+
+**Tech Stack:** `Python` `OpenCV` `MediaPipe` `fastAPI` `ReactJS`
+
+**Key Features:**
+- 👁️ Facial landmark detection for attention signals
+- 😴 Eye tracking + head pose estimation
+- ⏱️ Real-time monitoring pipeline
+- 📊 Focus/attention evaluation logic
+
+---
+
+#### **[NeetCode ML Submissions (GPT from Scratch)](https://github.com/ndk123-web/neetcode-ml-submissions)**
+> GPT built from scratch — assembled from NeetCode ML course submissions
+
+**Tech Stack:** `Python` `Maths`
+
+**Key Features:**
+- 🧱 Transformer/GPT components implemented from fundamentals
+- 🧠 Learning-focused implementations & experiments
+- 🧪 Training/inference exercises from coursework
+
+---
+
+#### **[Minimal Planner-Executor AI Agent](https://github.com/ndk123-web/minimal-planner-executor-ai-agent)**
+> Minimal AI agent built from scratch using OpenRouter (Qwen), with planner-executor architecture + streaming
+
+**Tech Stack:** `JavaScript` `OpenRouter` `Gemini` `Async Iterators` `Streaming` `Generative AI`
+
+**Key Features:**
+- 🗺️ Planner/Executor split via role-based prompting
+- 🔁 Iterative execution loop
+- 📡 Real-time token streaming responses
+- 🧰 Minimal, from-scratch agent implementation
+
+---
+
+#### **[AI Agent (Tool-Augmented)](https://github.com/ndk123-web/ai-agent)**
+> Controlled iterative tool-augmented agent where the LLM decides which function to call and loops until done
+
+**Tech Stack:** `JavaScript` `Gemini` `Generative AI`
+
+**Key Features:**
+- 🧠 LLM-driven tool/function selection
+- 🔁 Iterative reasoning + execution loop
+- 🧩 Controlled architecture for reliable automation
+
+---
+
+#### **[Mini Cursor](https://github.com/ndk123-web/mini-cursor)**
+> AI agents like Copilot/Cursor take project context, call tools, and apply changes directly to files (context-aware coding automation)
+
+**Tech Stack:** `JavaScript` `Generaive AI` `Ai Agent` `Gemini`
+
+**Key Features:**
+- 🧠 Context-to-LLM prompting flow
+- 🛠️ Tool calling for real file operations
+- ⚡ Real-time coding automation concept
+
+---
+---
 
 ## 💻 Tech Stack & Skills
 
