@@ -72,6 +72,20 @@ I'm a **third-year Computer Engineering student** passionate about building real
 
 ---
 
+## 🚀 Currently Building
+
+#### **[FlowFrame](https://flowframe.taskplexus.app/)**
+> Interactive distributed systems simulator for learning backend architecture through visual, step-by-step execution.
+**Tech Stack:** `Next.js` `React` `TypeScript` `Tailwind CSS` `Node.js`
+**Highlights:**
+- ⚡ Interactive system design simulations
+- 🗄️ PostgreSQL connection pool visualization
+- 🔄 Redis cache hit/miss scenarios
+- 📚 Learn backend concepts with practical simulations
+- 🧩 Workspace to build and experiment with scenarios
+
+> **Live Demo:** https://flowframe.taskplexus.app/
+
 ## 🚀 Featured Projects
 
 ### 1. 🌟 Full-Stack Web Applications
@@ -209,7 +223,7 @@ I'm a **third-year Computer Engineering student** passionate about building real
 #### **[who-is-running] (https://github.com/ndk123-web/who-is-running)**
 > Tool that can find port and can kill process running at port
 
-**Tech Stack:** `golang` 
+**Tech Stack:** `golang` `lipgloss` `tea` `cobra`
 ---
 
 ### 5. 🌐 Other Web Applications
